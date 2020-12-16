@@ -6,7 +6,7 @@
 1. Consider the type of data we will be storing and therefore the type of database we should implement (SQL vs NoSQL)
 
 - We have chosen a relational database as we can organise our database by common characteristics, such as, person details and house details. This takes advantage of separation of concerns as we don't need all of the information at once.
-- We will implement a SQL database. It will follow a structure handle large numbers of transactions in a single query.
+- We will implement a SQL database. It will follow a structure and handle large numbers of transactions in a single query.
 </br>
 2. Create a schema for this database
 
